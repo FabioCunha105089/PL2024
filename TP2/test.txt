@@ -1,0 +1,7 @@
+The ligoffh2ts a=re on, but the TV is off. The tonempera
+ture is set to -25 degrees. Th=ere are 10 people in the
+ room. The fan is running at speed 3. The voltage is +1
+ 20V. The current is -2.5A. The sound volume is at level 
+ 7. The timer is set to 15 minutes. The power consumption is 10
+ 0 watts. Turn on the AC unit. The heater is also on. The res
+ ult of 2 + 3 = 5.
