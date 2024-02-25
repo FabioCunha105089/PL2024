@@ -1,4 +1,4 @@
-# TPC1 PL 2024
+# TPC3 PL 2024
 
 ## Autor
 Fábio Jorge Almeida Cunha, A105089
