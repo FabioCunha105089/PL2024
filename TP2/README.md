@@ -23,5 +23,5 @@ Quando deteto que já não apanho elementos de uma lista, fecho-a com a respetiv
 ### Link
 Faço match de '\[*texto*](*url*)' e substituo por '\<a href="*url*">*texto*\</a>'
 
-## Imagem
+### Imagem
 Faço match de '!\[*texto*](*path*)' e substituo por '\<img src="*path*" alt="*texto*"/>'
